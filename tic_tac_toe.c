@@ -605,11 +605,7 @@ int main()
 
         break;
         default :
-        printf("\n Enter a valid choice");
-        
-        
-            
-            
+        printf("\n Enter a valid choice");            
         }
         return 0;
 }
